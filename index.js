@@ -6,7 +6,7 @@ var config = require("require");
 var T = new Twitter(require);
 
 var params = {
-  q: "rainbow",
+  q: "my-tweets",
   count: 20
 
 }
